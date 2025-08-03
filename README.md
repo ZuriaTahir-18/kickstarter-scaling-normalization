@@ -16,7 +16,12 @@ This repository contains a Jupyter Notebook for practicing data preprocessing te
 - mlxtend (installed in the notebook)
 
 ## Files
-- `kickstarter_scaling_normalization.ipynb`: Main assignment notebook performing scaling and normalization.
+- `kickstarter_scaling_normalization.ipynb`: Main assignment notebook performing scaling and normalization.## Dataset Source
+
+Kickstarter Projects dataset sourced from Kaggle:  
+https://www.kaggle.com/datasets/kemical/kickstarter-projects
+
+
 
 ## Dataset
 - `kickstarters_2017.csv`: Kickstarter campaign data including fields like goal, pledged amount, etc.
